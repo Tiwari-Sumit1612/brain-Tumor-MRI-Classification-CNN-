@@ -1,4 +1,4 @@
-# Brain Tumor Classification using CNN
+# Brain Tumor Classification using ANN
 
 ## Overview
 This project implements a Convolutional Neural Network (CNN) for multi-class classification of brain tumors using MRI images. The model is designed to classify images into different tumor categories with high accuracy and improved generalization.
